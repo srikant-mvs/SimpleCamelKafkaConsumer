@@ -56,3 +56,4 @@ The below steps are the observation after application is started
 7. All the kafka consumers start subscribing and un-subscribing one by one, the last thread remains active 
 
 ### Expected Behavior
+The consumer application should run with defined number of threads after server is available.
