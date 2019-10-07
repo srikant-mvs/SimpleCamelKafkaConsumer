@@ -14,7 +14,7 @@ The project runs initially with 15 consumer threads, but drops to 1 after the co
 ### Setup
 * Configure below properties in application.properties
 
-#####Mandatory
+#### Mandatory
 
 	kafka.topic
 	kafka.camelKafkaOptions.brokers
